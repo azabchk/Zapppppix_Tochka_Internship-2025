@@ -291,4 +291,4 @@ def main():
     print(solve(lines))
 
 if __name__ == "__main__":
-    main()
+    main()# submit

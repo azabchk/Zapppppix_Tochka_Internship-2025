@@ -38,3 +38,4 @@ zapppppix-internship-2025/
 3. Select this repo in “Настройка репозитория” page.
 4. Each push triggers auto-tests.
 # Zapppppix_Tochka_Internship-2025
+# trigger check
